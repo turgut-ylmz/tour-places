@@ -1,2 +1,2 @@
 
-tour-plaappces-bice.vercel.
+tour-places-bice.vercel.app
